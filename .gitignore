@@ -34,3 +34,17 @@ htmlcov/
 desktop.ini
 
 *.pdf
+
+examples/*
+examples/Cloudformation/my_parameters.json
+examples/Cloudformation/template_EC2.yml
+examples/Cloudformation/template_VPN.yml
+examples/Create_Pipeline/buildspec.yml
+examples/Create_Pipeline/buildspec.yml.zip
+examples/Create_Pipeline/simple-pipeline-build.yml
+examples/Deploy_Flask_App/app.py
+examples/Deploy_Flask_App/deployment.yml
+examples/Deploy_Flask_App/Dockerfile
+examples/flask/app.py
+examples/flask/Dockerfile
+examples/hello/Dockerfile
