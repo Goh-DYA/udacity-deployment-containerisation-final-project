@@ -29,3 +29,8 @@ htmlcov/
 .direnv
 
 .github/**
+
+*/desktop.ini
+desktop.ini
+
+*.pdf
